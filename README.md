@@ -1,6 +1,4 @@
-<img src="./banner.png" alt="banner" width="100%"/>
-
-<h1 align="center">印贤聪 · Cong</h1>
+<h1 align="center">Cong</h1>
 <p align="center">
   <a href="https://ccccongggg.github.io"><img src="https://img.shields.io/badge/主页-Astro-056de8?style=flat-square&logo=astro" alt="site"/></a>
   <img src="https://img.shields.io/badge/专业-智能制造工程-blue?style=flat-square" alt="major"/>
@@ -35,14 +33,6 @@
 | [齐鲁理工实验室安全 Skill](https://github.com/ccccongggg/qilu-lab-safety-skill) | SkillHub 宝藏母校大赛 · 实用刚需赛道 | Python |
 | [个人主页](https://ccccongggg.github.io) | Astro 5 + Sveltia CMS + EdgeOne Pages | Astro |
 
-### 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ccccongggg&show_icons=true&theme=tokyonight&count_private=true&hide_rank=false" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccccongggg&layout=compact&theme=tokyonight&hide=html,css" height="170"/>
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ccccongggg&theme=tokyonight&hide_border=true&area=true" width="100%"/>
-
 ### 🏅 竞赛 & 荣誉
 
 - 🥈 机电创新大赛 · 省级二等奖
@@ -54,9 +44,3 @@
 
 - 🌐 主页 / 博客：<https://ccccongggg.github.io>
 - 💻 GitHub：[@ccccongggg](https://github.com/ccccongggg)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ccccongggg&label=Profile%20Views&color=blueviolet&style=flat-square" alt="visitors"/>
-</p>
